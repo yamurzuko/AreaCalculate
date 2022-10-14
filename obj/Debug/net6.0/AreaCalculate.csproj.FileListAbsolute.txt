@@ -1,0 +1,15 @@
+/Users/ugurcanyagmur/Projects/AreaCalculate/bin/Debug/net6.0/AreaCalculate
+/Users/ugurcanyagmur/Projects/AreaCalculate/bin/Debug/net6.0/AreaCalculate.deps.json
+/Users/ugurcanyagmur/Projects/AreaCalculate/bin/Debug/net6.0/AreaCalculate.runtimeconfig.json
+/Users/ugurcanyagmur/Projects/AreaCalculate/bin/Debug/net6.0/AreaCalculate.dll
+/Users/ugurcanyagmur/Projects/AreaCalculate/bin/Debug/net6.0/AreaCalculate.pdb
+/Users/ugurcanyagmur/Projects/AreaCalculate/obj/Debug/net6.0/AreaCalculate.csproj.AssemblyReference.cache
+/Users/ugurcanyagmur/Projects/AreaCalculate/obj/Debug/net6.0/AreaCalculate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurcanyagmur/Projects/AreaCalculate/obj/Debug/net6.0/AreaCalculate.AssemblyInfoInputs.cache
+/Users/ugurcanyagmur/Projects/AreaCalculate/obj/Debug/net6.0/AreaCalculate.AssemblyInfo.cs
+/Users/ugurcanyagmur/Projects/AreaCalculate/obj/Debug/net6.0/AreaCalculate.csproj.CoreCompileInputs.cache
+/Users/ugurcanyagmur/Projects/AreaCalculate/obj/Debug/net6.0/AreaCalculate.dll
+/Users/ugurcanyagmur/Projects/AreaCalculate/obj/Debug/net6.0/refint/AreaCalculate.dll
+/Users/ugurcanyagmur/Projects/AreaCalculate/obj/Debug/net6.0/AreaCalculate.pdb
+/Users/ugurcanyagmur/Projects/AreaCalculate/obj/Debug/net6.0/AreaCalculate.genruntimeconfig.cache
+/Users/ugurcanyagmur/Projects/AreaCalculate/obj/Debug/net6.0/ref/AreaCalculate.dll
